@@ -13,8 +13,8 @@
     text-align: center;
 }
 .title {
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
     font-size: 3rem;
     max-width: fit-content;
     text-align: center;
